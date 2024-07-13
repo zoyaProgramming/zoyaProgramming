@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zoyaProgramming
 - 👀 I’m interested in learning to program!
-- 🌱 I’m currently learning how to use swing
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me don't
 - 😄 Pronouns: she/her
